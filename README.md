@@ -1,2 +1,2 @@
 # Challanges
-Challanges' Solutions
+Solutions for diffrent kind of challanges
