@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+        <AssemblyName>ProjectEuler</AssemblyName>
+        <RootNamespace>ProjectEuler</RootNamespace>
+        <PackageId>ProjectEuler</PackageId>
+        <Authors>ProjectEuler</Authors>
+        <Company>ProjectEuler</Company>
+        <Product>ProjectEuler</Product>
+    </PropertyGroup>
+
+</Project>
